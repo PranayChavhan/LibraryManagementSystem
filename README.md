@@ -40,10 +40,9 @@ The `src/index.ts` file contains example usage of the LibraryService. You can mo
 - `tsconfig.json`: TypeScript configuration
 - `jest.config.js`: Jest test runner configuration
 
-## Testing
+## Output
 
-This project uses Jest for testing. Run the tests using:
+![Screenshot from 2024-09-26 19-02-52](https://github.com/user-attachments/assets/510bad0f-9b07-4290-8d3a-598b1df17a3d)
+![Screenshot from 2024-09-26 18-58-11](https://github.com/user-attachments/assets/2ec55f6e-5f62-4e45-94c1-f6fe7d626c0b)
 
-```
-npm test
-```
+
